@@ -1,4 +1,4 @@
-## 🌍 Covid-19 Report Dashboard (English)
+## 🌍 Covid-19 Report Dashboard
 
 An interactive Power BI dashboard analyzing global COVID-19 data.
 
